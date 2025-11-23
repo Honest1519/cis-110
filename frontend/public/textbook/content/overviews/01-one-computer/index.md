@@ -2,10 +2,10 @@
 
 ## Overview
 
-* **Files** - Exploring how data is organized, stored, and accessed within computer systems
-* **Programs** - Examining how software instructions are created, compiled, and executed by the computer
-* **Hardware** - Understanding the physical components that make up a computer and how they work together to process information
-* **Operating System** - Learning how software manages hardware resources and provides a platform for applications
+* **Files** - Exploring how data is organized, stored, and accessed within computer systems.
+* **Programs** - Examining how software instructions are created, compiled, and executed by the computer.
+* **Hardware** - Understanding the physical components that make up a computer and how they work together to process information.
+* **Operating System** - Learning how software manages hardware resources and provides a platform for applications.
 
 ## Pre-Test
 
